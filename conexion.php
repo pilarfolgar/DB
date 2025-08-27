@@ -6,8 +6,8 @@ function conectar_bd(){
 
 $servidor = "localhost";
 $bd = "jjj";
-$usuario = "root";
-$pass = "";
+$usuario = "evolutionit";
+$pass = "MartiJuliPipi";
 
 //definir la conexion usando las variables.
 
